@@ -1,0 +1,17 @@
+{
+  "name": "anime-catalogue",
+  "version": "1.0.0",
+  "description": "An api service to display list of anime and specific details\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaisurya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
