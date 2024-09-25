@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "An api service to display list of anime and specific details\"",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "author": "Jaisurya",
   "license": "ISC",
